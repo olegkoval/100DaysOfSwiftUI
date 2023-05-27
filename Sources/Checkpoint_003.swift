@@ -12,8 +12,9 @@ import Foundation
 public func Checkpoint_003() {
     print("Checkpoint #3")
     
-    var msg = ""
     for i in 1...100 {
+        var msg = ""
+
         if i.isMultiple(of: 3) {
             msg += "Fizz"
         }
@@ -27,7 +28,6 @@ public func Checkpoint_003() {
         }
         
         print(msg)
-        msg = ""
     }
     
     print("")
