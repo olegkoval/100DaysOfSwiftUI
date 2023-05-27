@@ -1,10 +1,10 @@
 import Foundation
 
 /*
- Playing with clousures
- Custom sort function/clousure
+ Playing with closures
+ Custom sort function/closure
  */
-public func ClousureDay009() {
+public func ClosureDay009() {
     print("Clousures Day #9")
     
     let teamUsers = ["Helg", "Tom", "Han", "Bram", "David", "Sean"]
