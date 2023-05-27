@@ -6,4 +6,8 @@ import SwiftUI
 
 // Checkpoint_003()
 
-Checkpoint_004(7)
+// Checkpoint_004(7)
+
+// ClousureDay009()
+
+Checkpoint_005()
