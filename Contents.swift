@@ -12,6 +12,10 @@ import SwiftUI
 
 // Checkpoint_005()
 
-//Checkpoint_006()
+// Checkpoint_006()
 
-Checkpoint_007()
+// Checkpoint_007()
+
+// Checkpoint_008()
+
+Checkpoint_009()
